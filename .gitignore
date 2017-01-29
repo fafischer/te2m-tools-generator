@@ -12,8 +12,11 @@
 hs_err_pid*
 
 # maven build directory
-./target
+target/*
 
 # eclipse project files
 .classpath
 .project
+
+# other temp files
+test.zip
