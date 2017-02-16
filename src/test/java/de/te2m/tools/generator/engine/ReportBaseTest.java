@@ -9,10 +9,10 @@
  */
 package de.te2m.tools.generator.engine;
 
-import de.te2m.tools.generator.model.GeneratorTarget;
-import de.te2m.tools.generator.model.Report;
-import de.te2m.tools.generator.model.dev.java.JavaClassDescriptor;
-import de.te2m.tools.generator.model.dev.service.ServiceDescriptor;
+import de.te2m.report.api.model.dev.java.JavaClassDescriptor;
+import de.te2m.report.api.model.dev.service.ServiceDescriptor;
+import de.te2m.report.api.model.GeneratorTarget;
+import de.te2m.report.api.model.Report;
 import java.io.ByteArrayOutputStream;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;

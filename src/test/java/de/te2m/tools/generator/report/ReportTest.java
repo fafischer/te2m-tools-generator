@@ -9,10 +9,10 @@
 */
 package de.te2m.tools.generator.report;
 
-import de.te2m.tools.generator.model.FileType;
-import de.te2m.tools.generator.model.GeneratorTarget;
-import de.te2m.tools.generator.model.Report;
-import de.te2m.tools.generator.model.TemplateType;
+import de.te2m.report.api.model.FileType;
+import de.te2m.report.api.model.GeneratorTarget;
+import de.te2m.report.api.model.Report;
+import de.te2m.report.api.model.TemplateType;
 import java.io.StringWriter;
 import java.util.List;
 import java.util.logging.Level;

@@ -9,9 +9,6 @@
  */
 package de.te2m.tools.generator.engine;
 
-import de.te2m.tools.generator.model.Configuration;
-import de.te2m.tools.generator.model.GeneratorTarget;
-import de.te2m.tools.generator.model.Report;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Enumeration;
@@ -19,6 +16,10 @@ import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
+
+import de.te2m.report.api.model.Configuration;
+import de.te2m.report.api.model.GeneratorTarget;
+import de.te2m.report.api.model.Report;
 
 /**
  * The Class SimpleGenerator.

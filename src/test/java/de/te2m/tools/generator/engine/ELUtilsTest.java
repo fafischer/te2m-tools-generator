@@ -9,7 +9,7 @@
 */
 package de.te2m.tools.generator.engine;
 
-import de.te2m.tools.generator.model.dev.java.JavaClassDescriptor;
+import de.te2m.report.api.model.dev.java.JavaClassDescriptor;
 import java.util.HashMap;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;

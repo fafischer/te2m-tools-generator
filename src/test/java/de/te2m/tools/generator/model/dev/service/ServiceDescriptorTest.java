@@ -9,9 +9,10 @@
  */
 package de.te2m.tools.generator.model.dev.service;
 
-import de.te2m.tools.generator.model.dev.OperationDescriptor;
-import de.te2m.tools.generator.model.dev.java.JavaClassDescriptor;
-import de.te2m.tools.generator.model.mgmt.TaskDescriptor;
+import de.te2m.report.api.model.dev.OperationDescriptor;
+import de.te2m.report.api.model.dev.java.JavaClassDescriptor;
+import de.te2m.report.api.model.dev.service.ServiceDescriptor;
+import de.te2m.report.api.model.mgmt.TaskDescriptor;
 import java.util.List;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;

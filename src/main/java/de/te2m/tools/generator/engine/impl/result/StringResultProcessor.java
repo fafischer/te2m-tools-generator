@@ -10,7 +10,7 @@
 package de.te2m.tools.generator.engine.impl.result;
 
 import de.te2m.tools.generator.engine.GeneratorResultProcessor;
-import de.te2m.tools.generator.model.GeneratorTarget;
+import de.te2m.report.api.model.GeneratorTarget;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;

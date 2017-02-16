@@ -9,7 +9,7 @@
 */
 package de.te2m.tools.generator.engine;
 
-import de.te2m.tools.generator.model.GeneratorTarget;
+import de.te2m.report.api.model.GeneratorTarget;
 import java.util.HashMap;
 import java.util.List;
 import static org.junit.Assert.assertEquals;

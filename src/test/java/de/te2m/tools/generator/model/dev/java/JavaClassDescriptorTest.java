@@ -9,6 +9,7 @@
  */
 package de.te2m.tools.generator.model.dev.java;
 
+import de.te2m.report.api.model.dev.java.JavaClassDescriptor;
 import org.junit.After;
 import org.junit.AfterClass;
 import static org.junit.Assert.assertEquals;

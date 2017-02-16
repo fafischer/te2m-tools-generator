@@ -9,11 +9,11 @@
  */
 package de.te2m.tools.generator.engine.impl.freemarker;
 
+import de.te2m.report.api.model.dev.java.JavaClassDescriptor;
+import de.te2m.report.api.model.dev.service.ServiceDescriptor;
 import de.te2m.tools.generator.engine.ReportBaseTest;
 import de.te2m.tools.generator.engine.SimpleGenerator;
-import de.te2m.tools.generator.model.GeneratorTarget;
-import de.te2m.tools.generator.model.dev.java.JavaClassDescriptor;
-import de.te2m.tools.generator.model.dev.service.ServiceDescriptor;
+import de.te2m.report.api.model.GeneratorTarget;
 import java.util.List;
 import org.junit.After;
 import org.junit.AfterClass;

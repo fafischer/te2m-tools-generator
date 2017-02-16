@@ -10,7 +10,7 @@
 package de.te2m.tools.generator.engine.impl.freemarker;
 
 import de.te2m.tools.generator.engine.ReportProcessor;
-import de.te2m.tools.generator.model.TemplateType;
+import de.te2m.report.api.model.TemplateType;
 import java.util.Map;
 
 /**

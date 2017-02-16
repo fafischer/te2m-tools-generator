@@ -9,8 +9,9 @@
 */
 package de.te2m.tools.generator.engine;
 
-import de.te2m.tools.generator.model.GeneratorTarget;
 import java.util.Map;
+
+import de.te2m.report.api.model.GeneratorTarget;
 
 /**
  * Interface for providing post processing for created reports. Possible tasks

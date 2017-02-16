@@ -11,7 +11,7 @@ package de.te2m.tools.generator.engine.impl.result.file;
  
 import de.te2m.tools.generator.engine.ELUtils;
 import de.te2m.tools.generator.engine.GeneratorResultProcessor;
-import de.te2m.tools.generator.model.GeneratorTarget;
+import de.te2m.report.api.model.GeneratorTarget;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.IOException;

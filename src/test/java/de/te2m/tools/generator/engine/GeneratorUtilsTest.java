@@ -9,6 +9,7 @@
 */
 package de.te2m.tools.generator.engine;
 
+import de.te2m.report.api.model.GeneratorUtils;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 

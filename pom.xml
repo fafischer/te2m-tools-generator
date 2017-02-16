@@ -28,6 +28,11 @@
         <hibernate-jpamodelgen-version>1.3.0.Final</hibernate-jpamodelgen-version>
     </properties>
 	<dependencies>
+        	<dependency>
+            		<groupId>de.te2m</groupId>
+            		<artifactId>te2m-api-reports</artifactId>
+            		<version>1.0-SNAPSHOT</version>
+        	</dependency>
 		<dependency>
 			<groupId>javax.el</groupId>
 			<artifactId>javax.el-api</artifactId>

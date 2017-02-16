@@ -9,6 +9,7 @@
  */
 package de.te2m.tools.generator.dsl;
 
+import de.te2m.report.api.model.Report;
 import de.te2m.tools.generator.engine.GeneratorResultProcessor;
 import de.te2m.tools.generator.engine.ReportProcessor;
 import de.te2m.tools.generator.engine.SimpleGenerator;
@@ -16,7 +17,6 @@ import de.te2m.tools.generator.engine.impl.ChildReportProcessor;
 import de.te2m.tools.generator.engine.impl.ClassPathResourcerProcessor;
 import de.te2m.tools.generator.engine.impl.RawContentProcessor;
 import de.te2m.tools.generator.engine.impl.freemarker.FreeMarkerProcessor;
-import de.te2m.tools.generator.model.Report;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
